@@ -7,6 +7,7 @@ React-ts-boiler-plate is a small boilerplate I made because I was getting sick o
 ```
 # Clone the repo
 git clone https://github.com/ThuverX/react-ts-boiler-plate
+cd react-ts-boiler-plate
 
 # Install all dependencies
 yarn
